@@ -16,16 +16,13 @@
 
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
-| **[Name 1]** | Lead Developer & UI/UX | [@username1](https://github.com/username1) | [LinkedIn](https://linkedin.com/in/username1) |
-| **[Name 2]** | AI/ML Implementation | [@username2](https://github.com/username2) | [LinkedIn](https://linkedin.com/in/username2) |
-| **[Name 3]** | Backend & Testing | [@username3](https://github.com/username3) | [LinkedIn](https://linkedin.com/in/username3) |
-| **[Name 4]** | Documentation & Research | [@username4](https://github.com/username4) | [LinkedIn](https://linkedin.com/in/username4) |
-
+| **[Aaryan Khanna]** | Lead Developer & UI/UX | [@Aaryan-336](https://github.com/Aaryan-336) | [LinkedIn](https://www.linkedin.com/in/aaryan-khanna-263458313/) |
+| **[Avumm Dedhiaa]** | AI/ML Implementation | [@avumm24](https://github.com/avumm24) | [LinkedIn](https://www.linkedin.com/in/avumm-dedhiaa-7a8609326/) |
 ---
 
 ## 📚 About The Project
 
-This project was developed as part of our **Artificial Intelligence Course Mini Project** at [Your College Name].
+This project was developed as part of our **Artificial Intelligence Course Project** at Dwarkadas J. Sanghvi College of Engineering.
 
 ### 🎯 Problem Statement
 To build an intelligent system that can automatically classify text sentiment in real-time, helping businesses and individuals understand emotions in text data.
@@ -102,21 +99,6 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
----
-
-## 📸 Screenshots
-
-### Homepage
-![Homepage](screenshots/homepage.png)
-
-### Sentiment Analysis Result
-![Analysis](screenshots/result.png)
-
-### Responsive Design
-![Mobile](screenshots/mobile.png)
-
----
-
 ## 🎯 How It Works
 
 1. **Input:** User enters text (reviews, tweets, feedback)
@@ -166,8 +148,8 @@ This project is created for educational purposes as part of our AI course curric
 
 For any queries regarding this project:
 
-- **Email:** [group-email@example.com]
-- **Project Link:** [https://github.com/username/ai-sentiment-analyzer](https://github.com/username/ai-sentiment-analyzer)
+- **Email:** [aaryanhkhanna@gmail.com]
+- **Project Link:** [https://github.com/Aaryan-336/AI_SENTIMENT_ANALYZER](https://github.com/Aaryan-336/AI_SENTIMENT_ANALYZER)
 
 ---
 
@@ -177,98 +159,5 @@ Give a ⭐️ if you like this project!
 
 ---
 
-**Made with ❤️ by Team [Your Team Name]**
+**Made with ❤️ by Team BYTESTERS**
 ```
-
----
-
-## PART 2: LinkedIn Post for Group
-
-### **Step 1: Take Group Screenshots**
-
-1. **App homepage** with all features visible
-2. **Live demo** showing positive result
-3. **Live demo** showing negative result  
-4. **Team photo** (optional but great!)
-5. **GitHub repository** page showing all contributors
-
----
-
-### **Step 2: LinkedIn Group Post Template**
-
-**COPY THIS (Fill in your details):**
-```
-🚀 Excited to announce our AI Mini Project! 🧠
-
-Our team successfully developed an AI-Powered Sentiment Analysis Web Application as part of our Artificial Intelligence course at [Your College Name].
-
-👥 Team Members:
-- [Name 1] - [Role] | LinkedIn: @username1
-- [Name 2] - [Role] | LinkedIn: @username2  
-- [Name 3] - [Role] | LinkedIn: @username3
-- [Name 4] - [Role] | LinkedIn: @username4
-
-🎯 Project Highlights:
-✅ Real-time sentiment classification (Positive/Negative/Neutral)
-✅ Neural Network-based algorithm inspired by IEEE research
-✅ Interactive visualization with confidence scores
-✅ Modern, responsive UI built with React & Tailwind CSS
-✅ 90%+ accuracy on test cases
-
-🔧 Tech Stack:
-React.js | Tailwind CSS | Vite | Neural Network Algorithms | NLP
-
-📚 Academic Coverage:
-✔️ Natural Language Processing (NLP)
-✔️ Supervised Learning & Classification
-✔️ Neural Network Principles
-✔️ Real-world AI Applications
-
-🌐 Check it out:
-🔗 Live Demo: [Your Vercel/Netlify URL]
-💻 GitHub: https://github.com/username/ai-sentiment-analyzer
-📖 Full Documentation: [Link to README]
-
-🎓 Course: Artificial Intelligence | Semester: [X]
-👨‍🏫 Under the guidance of: Prof. [Name]
-
-This project taught us the practical implementation of AI concepts, from algorithm design to deployment. Special thanks to our professor and peers for their support! 🙏
-
-We're open to feedback and collaboration opportunities! 
-
-#ArtificialIntelligence #MachineLearning #NLP #SentimentAnalysis #React #WebDevelopment #TechProject #CollegeProject #AI #DeepLearning #DataScience #Innovation #StudentDevelopers #[YourCollegeName]
-
----
-
-🔖 Tag all team members in the post!
-📸 Add all 5 screenshots as a carousel
-```
-
----
-
-### **Step 3: Tag Everyone Properly**
-
-When posting:
-1. Type the post
-2. **Tag each team member:** Type `@` and start typing their name, select from dropdown
-3. **Add photos:** Click photo icon, select all 5 images
-4. **Tag in photos:** Click "Tag people" and tag everyone visible
-5. Click **"Post"**
-
----
-
-### **Step 4: Each Team Member Should:**
-
-**Option 1: Share the Main Post**
-- Click "Share" on main person's post
-- Add your own comment:
-```
-  Proud to share our team's AI project! 🚀
-  
-  My contribution: [Your specific role/work]
-  
-  Key learning: [What you learned]
-  
-  Thanks to my amazing teammates for making this possible! 🙌
-  
-  #AI #TeamWork #Innovation
